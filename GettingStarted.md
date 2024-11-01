@@ -28,6 +28,7 @@ Watched Video #1: Learned how to:
 - Implement movement with code
 
 Watched Video #2: Learned how to:
+- Import Assets from Unity Store
 - Create animations
 - Logically make animations function based on triggers and booleans
 
@@ -38,3 +39,9 @@ Watched Video #4: Learned how to:
 - Animate projectiles
 - Implement projectile physics
 - Make projectiles more efficient with an array rather than creation of a duplicate with every shot
+
+Watched Video #5: Learned how to:
+- Change background
+- Add ground, walls, and ceilings texture/graphic
+- Add extra graphics
+- Use snap tool

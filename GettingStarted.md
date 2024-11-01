@@ -20,3 +20,21 @@ This website will be used as a tutorial for learning C#.
 2. Learn the basics of the Unity UI by completing the Unity 2D game tutorial
 3. Learn how to create a game in Unity by following this Youtube tutorial:
 https://www.youtube.com/watch?v=lgUIx75fJ_E&list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX
+
+Watched Video #1: Learned how to:
+- Create player sprite
+- Create ground
+- Add collision
+- Implement movement with code
+
+Watched Video #2: Learned how to:
+- Create animations
+- Logically make animations function based on triggers and booleans
+
+Note: I skipped video #3 as it is a less essential and optional mechanic of a game to wall climb
+
+Watched Video #4: Learned how to:
+- Code attack mechanics
+- Animate projectiles
+- Implement projectile physics
+- Make projectiles more efficient with an array rather than creation of a duplicate with every shot

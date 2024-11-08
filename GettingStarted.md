@@ -45,3 +45,16 @@ Watched Video #5: Learned how to:
 - Add ground, walls, and ceilings texture/graphic
 - Add extra graphics
 - Use snap tool
+
+Watched Video #6: Learned how to:
+- Change the camera dynamic
+- Smooth camera movements
+Unfortunately, I couldn't get this mechanic to work. I even watched this additional video:
+https://www.youtube.com/watch?v=ZBj3LBA2vUY
+At first, I was unable to get it to work. However, I later fixed this by adding layers as mentioned in Video #7. 
+
+Watched Video #7: Learned how to:
+- Add layers
+- Create a health and damage system
+- Animate a health bar
+- Create a trap that damages the player
